@@ -7,3 +7,4 @@ data/activity.log
 Thumbs.db
 .vscode/
 .idea/
+*.zip

@@ -29,7 +29,7 @@ Simple contact management web app built with plain PHP, MySQL (PDO), HTML, and C
 - `dashboard.php`, `profile.php`, `contact.php`, `submissions.php`, `info.php` - app pages
 - `sql/campus_contact_db.sql` - database schema and sample rows
 - `assets/` - stylesheet and logo
-- `docs/` - ERD, checklist, and report draft
+- `docs/` - ERD and report draft
 
 ## Notes
 

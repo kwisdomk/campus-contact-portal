@@ -1,10 +1,9 @@
 # BSD 322 Internet Programming II - CAT 3 project report
 
 **Project:** Campus contact  
-**Group name:** [Group name]  
-**Members:** [Names and admission numbers]  
-**Lecturer:** [Lecturer name]  
-**Date:** [Date]
+**Group name:** JeffWisdom  
+**Members:** Jefferson Mwangi, Wisdom Kinoti
+
 
 ## 1. Overview
 
@@ -68,11 +67,11 @@ Plain PHP keeps the focus on core syntax, forms, sessions, and PDO queries cover
 
 ## 9. SEO and accessibility
 
-- [ ] Page titles and meta descriptions verified
-- [ ] Semantic `<header>`, `<nav>`, `<main>`, and `<footer>` tags verified
-- [ ] Open Graph metadata verified (update image URL if hosted publicly)
-- [ ] Clear headings and navigation verified
-- [ ] Responsive layout tested on desktop and mobile widths
+- [x] Page titles and meta descriptions verified
+- [x] Semantic `<header>`, `<nav>`, `<main>`, and `<footer>` tags verified
+- [x] Open Graph metadata verified (update image URL if hosted publicly)
+- [x] Clear headings and navigation verified
+- [x] Responsive layout tested on desktop and mobile widths
 
 ## 10. Testing and conclusion
 
