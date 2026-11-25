@@ -1,0 +1,24 @@
+erDiagram
+    users ||--o{ messages : submits
+    categories ||--o{ messages : classifies
+    users {
+      int id PK
+      string username UK
+      string email UK
+      string password_hash
+      datetime created_at
+    }
+    categories {
+      int id PK
+      string label UK
+    }
+    messages {
+      int id PK
+      int user_id FK
+      int category_id FK
+      string name
+      string email
+      text message
+      datetime created_at
+      datetime updated_at
+    }

@@ -1,0 +1,9 @@
+# Local configuration and runtime logs
+config.php
+data/activity.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
